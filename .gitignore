@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# uWSGI files
+*.log
+
+# IDE and editor files
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+
+# Other files
+*.db
+*.sqlite3
+*.pkl
